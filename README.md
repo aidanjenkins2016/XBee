@@ -8,6 +8,7 @@ The XBee's need to be configured with a program from Digi called X-CTU, however 
 
 If you are interested in learning more about XBee's here are some sources:
 Download Digi's GUI X-CTU here: https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu#productsupport-utilities
+
 XBee mesh guide: https://www.digi.com/resources/documentation/Digidocs/90001942-13/#concepts/c_xbee_zigbee_mesh_kit.htm%3FTocPath%3D_____1 
 
 XBee for Home Automation: http://www.desert-home.com/
