@@ -12,4 +12,5 @@ Download Digi's GUI X-CTU here: https://www.digi.com/products/xbee-rf-solutions/
 XBee mesh guide: https://www.digi.com/resources/documentation/Digidocs/90001942-13/#concepts/c_xbee_zigbee_mesh_kit.htm%3FTocPath%3D_____1 
 
 XBee for Home Automation: http://www.desert-home.com/
-Set PAN ID to 513
+
+Competition PAN ID is 513
